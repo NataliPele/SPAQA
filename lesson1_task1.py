@@ -1,2 +1,1 @@
-my_name = "Natalia"
-print(my_name)
+print(25//4)
